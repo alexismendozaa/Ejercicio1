@@ -5,3 +5,5 @@ Descripción del proyecto y sus características.
 - main
 - test
 - feature
+
+![Estructura del Repositorio](estructura.bmp)
