@@ -1,2 +1,7 @@
 # Ejercicio1
-Ejercicio propuesto en clase 
+Descripción del proyecto y sus características.
+
+## Estructura del Repositorio
+- main
+- test
+- feature
